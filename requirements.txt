@@ -1,12 +1,7 @@
-SpeechRecognition==3.10.0
-resemblyzer==0.1.1.dev0
 numpy==1.24.3
-librosa==0.10.0
+scipy>=1.10
 sounddevice==0.4.5
 soundfile==0.12.1
-pyttsx3==2.90
-sqlite3-python==1.0.0
-google-genai==0.3.0
 openai-whisper==20231117
-edge-tts==6.1.8
-pyaudio==0.2.13
+resemblyzer==0.1.1.dev0
+pyttsx3==2.90
